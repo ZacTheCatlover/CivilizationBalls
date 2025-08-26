@@ -1,0 +1,83 @@
+[
+    {
+        "name":"Polandball",
+        "leaderName":"Lukasz Jakowski",
+        "uniqueName":"Can(not) into space",
+        "uniques":[
+            "Comment [TODO: Disallow science victory]",
+            "Triggers a [Defense of The Nation] event <upon being declared war on by [All] Civilizations>"
+        ],
+        "cities":[
+            "Warsaw",
+            "Krakow",
+            "Lodz",
+            "Wroclaw",
+            "Poznan",
+            "Gdansk",
+            "Szczecin",
+            "Bydgoszcz",
+            "Lublin",
+            "Katowice",
+            "Bialystok",
+            "Czestochowa",
+            "Gdynia",
+            "Radom",
+            "Torun",
+            "Sosnowiec",
+            "Kielce",
+            "Gliwice",
+            "Zabrze",
+            "Bytom"
+        ],
+        "innerColor":[
+            212,
+            33,
+            61
+        ],
+        "outerColor":[
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "name":"Sillyball",
+        "leaderName":"The Silliest",
+        "uniqueName":"Haiiii!! :3 Heyy! Hiii! ^-^",
+        "uniques":[
+            "When defeating a [Military] unit, earn [0] Gold and recruit it <with [10]% chance>"
+        ],
+        "cities":[
+            ":3",
+            "O_o",
+            "^-^",
+            ">.<",
+            "^^",
+            "=D",
+            "-_-",
+            "x_x",
+            ":D",
+            ">~<",
+            ":>",
+            "x3",
+            "=^・^=",
+            "=3",
+            "^~^",
+            "OwO",
+            "._.",
+            "xD",
+            ">:3",
+            "UwU"
+        ],
+        "innerColor":[
+            0,
+            0,
+            0
+        ],
+        "outerColor":[
+            255,
+            255,
+            255
+        ]
+    }
+]

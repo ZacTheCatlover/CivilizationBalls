@@ -1,0 +1,98 @@
+[
+    {
+        "name":"Countryball",
+        "unitType":"Civilian",
+        "movement":2,
+        "cost":106,
+        "uniques":[
+            "Founds a new city <by consuming this unit>",
+            "Excess Food converted to Production when under construction",
+            "Requires at least [2] population"
+        ]
+    },
+    {
+        "name":"Worker Countryball",
+        "unitType":"Civilian",
+        "movement":2,
+        "cost":70,
+        "uniques":[
+            "Can build [{Land} {Water}] improvements on tiles"
+        ]
+    },
+    {
+        "name":"Hatchetman Countryball",
+        "unitType":"MeleeCombat",
+        "movement":2,
+        "strength":8,
+        "cost":40,
+        "attackSound":"nonmetalhit"
+    },
+    {
+        "name":"Polandball",
+        "uniqueTo":"Polandball",
+        "replaces":"Countryball",
+        "unitType":"Civilian",
+        "movement":2,
+        "cost":106,
+        "uniques":[
+            "Founds a new city <by consuming this unit>",
+            "Excess Food converted to Production when under construction",
+            "Requires at least [2] population"
+        ]
+    },
+    {
+        "name":"Worker Polandball",
+        "uniqueTo":"Polandball",
+        "replaces":"Worker Countryball",
+        "unitType":"Civilian",
+        "movement":2,
+        "cost":70,
+        "uniques":[
+            "Can build [{Land} {Water}] improvements on tiles"
+        ]
+    },
+    {
+        "name":"Hatchetman Polandball",
+        "uniqueTo":"Polandball",
+        "replaces":"Hatchetman Countryball",
+        "unitType":"MeleeCombat",
+        "movement":2,
+        "strength":8,
+        "cost":40,
+        "attackSound":"nonmetalhit"
+    },
+    {
+        "name":"Sillyball",
+        "uniqueTo":"Sillyball",
+        "replaces":"Countryball",
+        "unitType":"Civilian",
+        "movement":2,
+        "cost":106,
+        "uniques":[
+            "Founds a new city <by consuming this unit>",
+            "Excess Food converted to Production when under construction",
+            "Requires at least [2] population"
+        ]
+    },
+    {
+        "name":"Worker Sillyball",
+        "uniqueTo":"Sillyball",
+        "replaces":"Worker Countryball",
+        "unitType":"Civilian",
+        "movement":2,
+        "cost":70,
+        "uniques":[
+            "Can build [{Land} {Water}] improvements on tiles"
+        ]
+    },
+    {
+        "name":"Hatchetman Sillyball",
+        "uniqueTo":"Sillyball",
+        "replaces":"Hatchetman Countryball",
+        "unitType":"MeleeCombat",
+        "movement":2,
+        "strength":8,
+        "cost":40,
+        "attackSound":"nonmetalhit"
+    }
+]

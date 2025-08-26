@@ -1,0 +1,33 @@
+[
+    {
+        "name":"Defense of The Nation",
+        "text":"Polska has been invaded and subjugated FAR too many times!! We cannot let it happen again!",
+        "civilopediaText":[
+            {
+                "text":"Triggers when any civilization declared war on Polandball."
+            }
+        ],
+        "choices":[
+            {
+                "text":"Mobilization",
+                "uniques":[
+                    "[33]% Production when constructing [Military] units [in all cities] <for [15] turns>",
+                    "[-33]% growth [in all cities] <for [15] turns>",
+                    "[1] Unit Supply per [10] population [in all cities] <for [25] turns>"
+                ]
+            },
+            {
+                "text":"Total mobilization",
+                "uniques":[
+                    "[66]% Production when constructing [Military] units [in all cities] <for [15] turns>",
+                    "[-66]% growth [in all cities] <for [15] turns>",
+                    "[1] Unit Supply per [7] population [in all cities] <for [25] turns>"
+                ]
+            },
+            {
+                "text":"No need",
+                "uniques":[]
+            }
+        ]
+    }
+]
