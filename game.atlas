@@ -4,77 +4,77 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Images.NationIcons/NationIcons/Polandball
+NationIcons/Polandball
   rotate: false
   xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Images.NationIcons/NationIcons/Sillyball
+NationIcons/Sillyball
   rotate: false
   xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Images.Tilesets/TileSets/FantasyHex/Units/Countryball
+TileSets/FantasyHex/Units/Countryball
   rotate: false
   xy: 220, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Images.Tilesets/TileSets/FantasyHex/Units/Hatchetman Countryball
+TileSets/FantasyHex/Units/Hatchetman Countryball
   rotate: false
   xy: 220, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Images.Tilesets/TileSets/FantasyHex/Units/Hatchetman Polandball
+TileSets/FantasyHex/Units/Hatchetman Polandball
   rotate: false
   xy: 260, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Images.Tilesets/TileSets/FantasyHex/Units/Hatchetman Sillyball
+TileSets/FantasyHex/Units/Hatchetman Sillyball
   rotate: false
   xy: 220, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Images.Tilesets/TileSets/FantasyHex/Units/Polandball
+TileSets/FantasyHex/Units/Polandball
   rotate: false
   xy: 260, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Images.Tilesets/TileSets/FantasyHex/Units/Sillyball
+TileSets/FantasyHex/Units/Sillyball
   rotate: false
   xy: 300, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Images.Tilesets/TileSets/FantasyHex/Units/Worker Countryball
+TileSets/FantasyHex/Units/Worker Countryball
   rotate: false
   xy: 260, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Images.Tilesets/TileSets/FantasyHex/Units/Worker Polandball
+TileSets/FantasyHex/Units/Worker Polandball
   rotate: false
   xy: 300, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-Images.Tilesets/TileSets/FantasyHex/Units/Worker Sillyball
+TileSets/FantasyHex/Units/Worker Sillyball
   rotate: false
   xy: 340, 76
   size: 32, 28
